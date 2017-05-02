@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<project basedir="." default="run" name="SampleGitJenkinsProject">
+<project basedir="C:\Users\pdas003c\Desktop\Personal\Java_Assignment\LocalGitRep\SampleGitJenkinsProject" default="run" name="SampleGitJenkinsProject">
     <property name="src.dir" value="src"/>
     <property name="build.dir" value="build/classes"/>
 	<target name="clean">
